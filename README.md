@@ -5,12 +5,12 @@ A fun and interactive AI-powered astrology app built with Streamlit.
 # 🔮 Live Demo
 
 https://gnawable-mercilessly-bradford.ngrok-free.dev/
-![Preview](Demo.png)
+<img width="2890" height="1744" alt="image" src="https://github.com/user-attachments/assets/0ad23653-2e8e-4a40-b949-5a0487114141" />
 
 
 # ⭐ Overview
 
-AI Astrologer is a Streamlit-based web application that blends traditional astrology inputs with AI-generated insights.
+AI Astrologer is a Streamlit based web application that blends traditional astrology inputs with AI generated insights.
 Users can enter their birth details to receive a personalized cosmic profile, and can ask open-ended questions through an interactive “Ask the Oracle” feature powered by Large Language Models.
 
 This project is designed for learning, demos, and entertainment purposes only.
@@ -41,35 +41,29 @@ Organized layout with Streamlit forms
 
 Loading spinners for immersive experience
 
-# 🧠 How It Works
+## 🧠 How It Works
 
 The app is divided into two main components:
 
-1. app.py
+---
 
-Handles:
+### 1️⃣ **`app.py`**  
+**Handles:**
+- UI / Streamlit layout  
+- Form inputs  
+- User session management  
+- Displaying readings and Oracle responses  
 
-UI / Streamlit layout
+---
 
-Form inputs
+### 2️⃣ **`main.py`**  
+**Contains:**
+- `build_profile()`  
+- `generate_reading()`  
+- `answer_question()`  
+- `InputData` dataclass  
 
-User session management
-
-Displaying readings and oracle responses
-
-2. astrologer/core.py
-
-Contains:
-
-build_profile()
-
-generate_reading()
-
-answer_question()
-
-InputData dataclass
-
-All AI logic is cleanly separated from UI.
+All AI logic is cleanly separated from UI for better modularity.
 
 # 🏗️ Tech Stack
 
@@ -82,3 +76,4 @@ Gemini API / LLMs
 Ngrok (for public demo)
 
 Custom Prompt Engineering
+
