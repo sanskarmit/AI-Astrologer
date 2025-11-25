@@ -1,4 +1,5 @@
 AI ASTROLOGER
+
 A fun and interactive AI-powered astrology app built with Streamlit.
 
 LIVE DEMO
