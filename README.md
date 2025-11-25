@@ -23,7 +23,7 @@ This project is designed for learning, demos, and entertainment purposes only.
 - Powered by a custom profile engine from `astrologer.core`  
 - Clean separation of logic and UI for reliability  
 
----
+
 
 ### 🧙‍♂️ Ask the Oracle
 - Ask any open-ended question (career, love, direction, clarity, etc.)  
@@ -31,7 +31,7 @@ This project is designed for learning, demos, and entertainment purposes only.
 - Provides smart defaults if birth details aren’t submitted  
 - Feels like a guided, conversational experience  
 
----
+
 
 ### 🎨 Clean & Modern UI
 - Sleek **dark theme** for an immersive experience  
@@ -39,6 +39,7 @@ This project is designed for learning, demos, and entertainment purposes only.
 - Smooth interactions with **loading spinners**  
 - Clear feedback with success, warning, and info messages  
 
+---
 
 ## 🧠 How It Works
 
