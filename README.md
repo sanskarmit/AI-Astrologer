@@ -45,7 +45,6 @@ This project is designed for learning, demos, and entertainment purposes only.
 
 The app is divided into two main components:
 
----
 
 ### 1️⃣ **`app.py`**  
 **Handles:**
