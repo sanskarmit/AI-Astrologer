@@ -5,6 +5,7 @@ A fun and interactive AI-powered astrology app built with Streamlit.
 # 🔮 Live Demo
 
 https://gnawable-mercilessly-bradford.ngrok-free.dev/
+![Preview](Demo.png)
 
 
 # ⭐ Overview
