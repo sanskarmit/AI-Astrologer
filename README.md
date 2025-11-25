@@ -15,31 +15,30 @@ Users can enter their birth details to receive a personalized cosmic profile, an
 
 This project is designed for learning, demos, and entertainment purposes only.
 
-# ✨ Features
+## ✨ Features
 
-🔹 Birth Chart Reader
+### 🔮 Birth Chart Reader
+- Enter **Name**, **Birth Date**, **Birth Time**, and **Birth Place**  
+- Generates a personalized **Astrology Reading**  
+- Powered by a custom profile engine from `astrologer.core`  
+- Clean separation of logic and UI for reliability  
 
-Enter Name, Birth Date, Birth Time, and Birth Place
+---
 
-Generates a personalized Astrology Reading
+### 🧙‍♂️ Ask the Oracle
+- Ask any open-ended question (career, love, direction, clarity, etc.)  
+- Oracle uses your **birth profile** for tailored responses  
+- Provides smart defaults if birth details aren’t submitted  
+- Feels like a guided, conversational experience  
 
-Uses a custom profile builder from astrologer.core
+---
 
-🔹 Ask the Oracle
+### 🎨 Clean & Modern UI
+- Sleek **dark theme** for an immersive experience  
+- Organized layout using Streamlit forms and columns  
+- Smooth interactions with **loading spinners**  
+- Clear feedback with success, warning, and info messages  
 
-Ask any question (career, love, life, etc.)
-
-Oracle uses your birth profile for tailored responses
-
-Intelligent defaults if birth details are missing
-
-🔹 Clean & Modern UI
-
-Dark theme
-
-Organized layout with Streamlit forms
-
-Loading spinners for immersive experience
 
 ## 🧠 How It Works
 
